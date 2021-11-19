@@ -1,0 +1,9 @@
+{
+  "deploymentId" : "",
+  "resourceMetadata" : {
+    "arn" : "arn:aws:proton:us-east-1:592596251024:environment/terra-test-ev",
+    "templateArn" : "arn:aws:proton:us-east-1:592596251024:environment-template/terra-test",
+    "templateMajorVersion" : "2",
+    "templateMinorVersion" : "0"
+  }
+}
